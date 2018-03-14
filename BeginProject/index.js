@@ -6,8 +6,13 @@ import App from './App';
 //import FixedDimension from './components/FixedDimension';
 //import FlexDimension from './components/FlexDimension';
 //import FlexExample from './components/FlexExample';
-import JustifyContentExample from './components/JustifyContentExample';
-import TextInputExample from './components/TextInput';
-import ButtonExample from './components/ButtonExample';
+// import JustifyContentExample from './components/JustifyContentExample';
+// import TextInputExample from './components/TextInput';
+// import ButtonExample from './components/ButtonExample';
+// import TouchesExample from './components/TouchesExample';
+// import VerticalScrollView from './components/VerticalScrollView';
+//import HorizontalScrollView from './components/HorizontalScrollView';
+//import ViewPagerExample from './components/ViewPagerExample';
+import FlatList01 from './components/FlatList01';
 
-AppRegistry.registerComponent('BeginProject', () => TextInputExample);
+AppRegistry.registerComponent('BeginProject', () => FlatList01);
