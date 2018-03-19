@@ -3,14 +3,22 @@ import { AppRegistry ,View, StyleSheet, FlatList, Text, Image, Alert, TouchableH
 import flatListData from '../data/flatListData';
 import Swipeout from 'react-native-swipeout';
 import AddModal from './AddModal';
-
+import EditModal from './EditModal';
 
 class FlatListItem extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            activeRowKey: null
+            activeRowKey: null,
+            numberC: 0
         }
+    }
+    refreshFlatList = () => {
+        this.setState((prevState) => {
+            return {
+                numberC: prevState.numberC + 1
+            };
+        });
     }
     render() {
         const swipeSetting = {
@@ -24,6 +32,12 @@ class FlatListItem extends Component {
                 this.setState({activeRowKey: this.props.item.key});
             },
             right: [
+                {
+                    onPress: () => {
+                        this.props.parentFlatList.refs.editModal.showEditModal(flatListData[this.props.index], this);
+                    },
+                    text: 'Edit', type: 'primary'
+                },
                 {
                     onPress: () => {
                         const deletingRow = this.state.activeRowKey;
@@ -113,15 +127,17 @@ export default class FlatList01 extends Component {
                     </TouchableHighlight>
                 </View>
                 <FlatList
+                    keyExtractor={(item) => item.key}
                     data={flatListData}
                     renderItem={({item, index})=>{
                         return (
-                            <FlatListItem item={item} index={index} refreshFlatList={this.refreshFlatList}> </FlatListItem>
+                            <FlatListItem item={item} index={index} refreshFlatList={this.refreshFlatList} parentFlatList={this}> </FlatListItem>
                         );
                     }} // Tham số là một object, cách duyệt như map, forEach
                 >
                 </FlatList>
                 <AddModal ref={'addModal'} parentFlatList={this}> </AddModal>
+                <EditModal ref={'editModal'} parentFlatList={this}> </EditModal>
             </View>
         );
     }

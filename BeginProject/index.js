@@ -14,5 +14,8 @@ import App from './App';
 //import HorizontalScrollView from './components/HorizontalScrollView';
 //import ViewPagerExample from './components/ViewPagerExample';
 import FlatList01 from './components/FlatList01';
+import HorizontalFlatList from './components/HorizontalFlatList';
+import SectionFlatList from './components/SectionFlatList';
+import FirebaseLogin from './components/FirebaseLogin';
 
-AppRegistry.registerComponent('BeginProject', () => FlatList01);
+AppRegistry.registerComponent('BeginProject', () => FirebaseLogin);

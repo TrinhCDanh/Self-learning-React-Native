@@ -34,7 +34,7 @@ export default class AddModal extends Component {
                     shadowRadius: 10,
                     width: screen.width - 80,
                     height: 200,
-                    textAlign: 'center'
+                    //textAlign: 'center'
                 }}
                 position='center'
                 backdrop={true}

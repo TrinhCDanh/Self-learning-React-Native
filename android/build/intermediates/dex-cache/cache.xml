@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\trinh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_b24751e2485d0ed83538daeb6f5e89df8041d4c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_4a63cf9bde2c0cc38d24568fd3871eed50ad1d84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_e4da39dbb35978e2fb638b1d961298c6e8ae8590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_26dd145ab29271c1610f40b82057b1273228958b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_3739fa3d161e095312518c895550eda0a02914e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9bc5c658348a96fc5110ac2a8785920bb9417c07">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.54.0_4bbe1640305e268b3c9fa6dced1cd8a892e20695.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_182c67e4db6a2e335488d32513d0085da60f946f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\trinh\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_18af426ff9c88b70cecc529ee1cc236c5bcc0d8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_9acecf7dc83044e12891d50a7f795062b55f6e0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.54.0\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_2f70ff81231073fa2eaa32a92f55725e544e6068.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_dc0610487748b5ea42ecf9a5948e4f21bebeaf09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\trinh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_75817cc410c66c4d757a8c199660d7aa4ec6fb07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\trinh\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_c5b3bca1acdd2314f66d06a956884b254e339e64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_9f74036ccb7076c43db738b74e912462edca437c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\trinh\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_599ef7c0a867c92c42dd1203dc0a75b54ddf24ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\trinh\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_70e901658b691960f64da84e56b018dc25b0c1bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_06e69c228dc6f8131bec1d51328f6612f4b9a3db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_81962d83f027976f042cd072b8f9f05d160147f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\trinh\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_2df591595c631c776f98cd007974ecc4f4398ec2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\trinh\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_c50fc7533639a0c5e55981bac2ef688ea9979a79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\Program\wamp64\www\Github\Self-learning-React-Native\BeginProject\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_2e364cdd903f798ff553766126a7e8bab9d111e6.jar" />
+    </item>
+
+</items>
